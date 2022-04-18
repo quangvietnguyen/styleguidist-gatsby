@@ -1,0 +1,5 @@
+Counter Button
+
+```jsx
+<CounterButton />
+```

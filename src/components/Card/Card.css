@@ -1,0 +1,17 @@
+.card {
+  margin: 5em;
+  position: relative;
+  top: 0px;
+  padding: 4em;
+  border: 3px solid currentColor;
+  background-color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  transition: top ease 0.3s;
+  border-radius: 10px;
+}
+
+.card:hover {
+  top: -3px;
+}

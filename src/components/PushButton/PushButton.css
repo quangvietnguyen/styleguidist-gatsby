@@ -1,0 +1,16 @@
+.push-button {
+  padding: 0.5em 1.5em;
+  color: #fff;
+  background-color: orange;
+  border: 3px solid currentColor;
+  border-radius: 0.3em;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.push-button:hover {
+  color: #ffa500;
+  background-color: #fff;
+  border: 3px solid orange;
+}
